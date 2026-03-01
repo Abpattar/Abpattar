@@ -50,7 +50,6 @@
 - Integrating backend services  
 - Studying **Broken Access Control & IDOR**  
 - Exploring **API authorization flaws**  
-- Strengthening Linux fundamentals  
 
 ---
 
