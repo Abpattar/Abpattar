@@ -1,45 +1,31 @@
 <div align="center">
 
+  <!-- === Header === -->
   <!-- Hollow Knight running across top -->
-  <img src="assets/running-knight.svg" width="140" alt="Hollow Knight running" />
-
-  <!-- Hero banner -->
-  <img src="assets/hero-banner.svg" width="100%" alt="Aditya B. Pattar — IoT Student, Developer, Builder" />
+  <img src="assets/running-knight.gif" width="140" alt="Hollow Knight running" />
 
   <br />
 
-  <!-- Status line with walking knight -->
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="assets/walking-knight.svg" width="70" alt="Hollow Knight walking" />
-      </td>
-      <td align="left">
-        <div align="center">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Online status">
-            <circle cx="12" cy="12" r="10" fill="#10b981" opacity="1">
-              <animate attributeName="r" values="10;13;10" dur="2s" repeatCount="indefinite"/>
-              <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
-            </circle>
-            <circle cx="12" cy="12" r="4" fill="#10b981"/>
-          </svg>
-          <br />
-          <span style="color:#83b7ff; font-family:monospace; letter-spacing:1px;">ONLINE · BUILDING CHRONA</span>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <!-- Hero banner -->
+  <img src="assets/hero-banner.svg" width="95%" alt="Aditya B. Pattar — IoT Student, Developer, Builder from India" />
+
+  <br />
+
+  <!-- Status line with walking knight beside it -->
+  <img src="assets/walking-knight.gif" width="70" alt="Hollow Knight walking" />
+  &nbsp;·&nbsp;
+  <span style="color:#83b7ff; font-family:monospace; letter-spacing:1px;">ONLINE · BUILDING CHRONA</span>
 
   <br />
 
   <!-- Quick links -->
-  <a href="https://github.com/Abpattar"><img src="https://img.shields.io/badge/⌘%20Code-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Code" /></a>
+  <a href="https://github.com/Abpattar"><img src="https://img.shields.io/badge/%E2%9C%A8%20Code-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Code" /></a>
   &nbsp;
-  <a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/◈%20Learn-0b1424?style=for-the-badge&logo=bookstack&logoColor=cbd8f0" alt="Learn" /></a>
+  <a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/%E2%9C%88%20Learn-0b1424?style=for-the-badge&logo=bookstack&logoColor=cbd6f0" alt="Learn" /></a>
   &nbsp;
-  <a href="https://github.com/Abpattar/Chrona"><img src="https://img.shields.io/badge/⚒%20Build-0b1424?style=for-the-badge&logo=android&logoColor=cbd8f0" alt="Build" /></a>
+  <a href="https://github.com/Abpattar/Chrona"><img src="https://img.shields.io/badge/%E2%9A%92%20Build-0b1424?style=for-the-badge&logo=android&logoColor=cbd8f0" alt="Build" /></a>
   &nbsp;
-  <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/badge/✧%20Explore-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Explore" /></a>
+  <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/badge/%E2%9C%B6%20Explore-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Explore" /></a>
 
 </div>
 
@@ -51,21 +37,29 @@
 <br />
 
 <div align="center">
-  <img src="assets/bonfire-banner.svg" width="100%" alt="Bonfire lit in a blue underground kingdom." />
-</div>
 
-<div align="center">
-  <p><em>“A small step today, towards a better build tomorrow.”</em></p>
+  <!-- Bonfire banner -->
+  <img src="assets/bonfire-banner.svg" width="90%" alt="Bonfire lit in a blue underground kingdom." />
+
   <br />
+
   <!-- Jumping knight appears when bonfire is lit -->
-  <img src="assets/jumping-knight.svg" width="100" alt="Hollow Knight jumping" />
+  <img src="assets/jumping-knight.gif" width="120" alt="Hollow Knight jumping" />
+
   <br />
+
+  <p><em>"A small step today, towards a better build tomorrow."</em></p>
+
   <p>
-    ➤ &nbsp; Currently building <a href="https://github.com/Abpattar/Chrona"><strong>Chrona</strong></a> — a local-first Android planner<br />
-    ⚒ &nbsp; Exploring full-stack apps, AI-assisted workflows, automation, and IoT<br />
-    ◈ &nbsp; Learning to build software that is useful, thoughtful, and secure<br />
+    ➤ &nbsp; Currently building <a href="https://github.com/Abpattar/Chrona"><strong>Chrona</strong></a> — a local-first Android planner
+    <br />
+    ⚒ &nbsp; Exploring full-stack apps, AI-assisted workflows, automation, and IoT
+    <br />
+    ◈ &nbsp; Learning to build software that is useful, thoughtful, and secure
+    <br />
     ✦ &nbsp; Next quest: ship more Android apps and practical projects
   </p>
+
   <p>
     <a href="https://github.com/Abpattar"><img src="https://img.shields.io/badge/GitHub-101a2b?style=for-the-badge&logo=github&logoColor=edf3ff" alt="GitHub" /></a>
     &nbsp;
@@ -73,20 +67,25 @@
     &nbsp;
     <a href="mailto:adityabpattar@gmail.com"><img src="https://img.shields.io/badge/Email-101a2b?style=for-the-badge&logo=gmail&logoColor=ffad66" alt="Email" /></a>
   </p>
+
 </div>
 
 </details>
 
 ---
 
-<!-- About Me section with blushing knight -->
+<!-- === About Me === -->
 <div align="center">
-  <img src="assets/blushing-knight.svg" width="90" alt="Hollow Knight" />
+
+  <!-- Hollow Knight standing near about me -->
+  <img src="assets/blushing-knight.gif" width="85" alt="Hollow Knight" />
+
   <br />
+
   <table>
     <tr>
-      <td width="34%" valign="top">
-        <img src="assets/cavern-wanderer.jpg" width="100%" alt="Cavern wanderer" />
+      <td width="35%" valign="top">
+        <img src="assets/cavern-wanderer.jpg" width="90%" alt="Cavern wanderer" />
       </td>
       <td valign="top">
         <h3><code>&gt; about.me</code></h3>
@@ -98,14 +97,14 @@
         <br />
         <p>
           I'm a full-stack developer who enjoys turning ideas into tools people can actually use.
-          I move between web applications, Android development, AI-powered workflows, and IoT
-          experiments. I'm interested in how software works under the hood — especially
-          authentication, access control, and building systems that behave securely.
+          I move between web applications, Android development, AI-powered workflows, and IoT experiments.
+          I'm interested in how software works under the hood — especially authentication, access control, and building systems that behave securely.
         </p>
         <p><code>&gt; currently</code> : Building Chrona and learning by shipping practical projects one step at a time.</p>
       </td>
     </tr>
   </table>
+
 </div>
 
 ---
@@ -113,18 +112,17 @@
 <h3><code>&gt; current.quest</code></h3>
 
 <div align="center">
+
   <b>Chrona — Personal Android Planner</b> · [Repository ↗](https://github.com/Abpattar/Chrona)
+
 </div>
 
 <p align="center">
-  A local-first planner built with <b>Kotlin</b> and <b>Jetpack Compose</b>. The goal is to make it easier
-  to capture tasks, create a workable day plan, and adjust when real life gets in the way — while keeping
-  the core experience useful offline.
+  A local-first planner built with <b>Kotlin</b> and <b>Jetpack Compose</b>. The goal is to make it easier to capture tasks, create a workable day plan, and adjust when real life gets in the way — while keeping the core experience useful offline.
 </p>
 
 <p align="center">
-  Also exploring full-stack tools, AI-assisted automation, app-building patterns, and prototypes that
-  connect software with real-world problems.
+  Also exploring full-stack tools, AI-assisted automation, app-building patterns, and prototypes that connect software with real-world problems.
 </p>
 
 ---
@@ -140,7 +138,7 @@
       </td>
       <td align="center">
         <b>AI & Automation</b><br />
-        Simpler workflows, no fragile paid API dependence.
+        Simpler workflows without fragile paid API dependence.
       </td>
     </tr>
     <tr>
@@ -161,6 +159,7 @@
 <h3><code>&gt; tech.stack</code></h3>
 
 <div align="center">
+
   <p><b>Languages &amp; Learning</b></p>
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,dart,c,java&theme=dark" alt="Python, JavaScript, TypeScript, Kotlin, Dart, C, Java" />
 
@@ -172,6 +171,7 @@
 
   <p><b>Tools &amp; Workflow</b></p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,neovim&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code, Neovim" />
+
 </div>
 
 ---
@@ -179,16 +179,20 @@
 <h3><code>&gt; stats.from.the.kingdom</code></h3>
 
 <div align="center">
+
   <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbpattar&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=15243a&labelColor=0b1424" alt="Public repository count" /></a>
   &nbsp;
   <a href="https://github.com/Abpattar"><img src="https://img.shields.io/github/followers/Abpattar?label=Followers&style=for-the-badge&color=15243a&labelColor=0b1424" alt="GitHub followers" /></a>
   &nbsp;
   <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/github/stars/Abpattar?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=15243a&labelColor=0b1424" alt="GitHub stars" /></a>
+
 </div>
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Abpattar&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2&icon_color=ff9b5c" height="165" alt="GitHub profile stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abpattar&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2" height="165" alt="Most-used languages" />
+
 </div>
 
 <p align="center"><sub>One commit, one lesson, one small step at a time.</sub></p>
@@ -198,11 +202,13 @@
 <h3><code>&gt; find.me</code></h3>
 
 <div align="center">
+
   <a href="https://github.com/Abpattar">GitHub</a>
   &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/aditya-pattar-261a6834b/">LinkedIn</a>
   &nbsp; · &nbsp;
   <a href="mailto:adityabpattar@gmail.com">Email</a>
+
 </div>
 
 ---
