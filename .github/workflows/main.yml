@@ -1,0 +1,48 @@
+name: Update Contribution Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 3 * * 1" # Every Monday at 03:23 UTC
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "scripts/generate_contribution_graph.py"
+      - ".github/workflows/update-contribution-graph.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Build graph from GitHub's public contribution calendar
+        run: python scripts/generate_contribution_graph.py
+
+      - name: Commit updated SVG when it changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-graph.svg
+          if git diff --cached --quiet; then
+            echo "Contribution graph is already up to date."
+            exit 0
+          fi
+          git commit -m "chore: refresh contribution graph"
+          git push
