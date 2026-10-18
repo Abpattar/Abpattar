@@ -27,10 +27,10 @@
 <summary><strong>▼ &nbsp; LIGHT BONFIRE</strong></summary>
 
 <br />
-
 <div align="center">
-  <img src="assets/bonfire-banner.svg" width="100%" alt="Bonfire lit in a blue underground kingdom." />
-</div>
+  <div align="center">
+    <img src="assets/bonfire-banner.svg" width="100%" alt="Bonfire lit in a blue underground kingdom." />
+  </div>
 
 <div align="center">
   <p><em>“A small step today, towards a better build tomorrow.”</em></p>
@@ -114,13 +114,6 @@ Also exploring full-stack tools, AI-assisted automation, app-building patterns, 
   <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/github/stars/Abpattar?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=15243a&labelColor=0b1424" alt="GitHub stars across repositories" /></a>
 </div>
 
-<h3><code>&gt; contribution.graph</code></h3>
-
-<div align="center">
-  <img src="assets/contribution-graph.svg" width="100%" alt="Public GitHub contribution calendar, refreshed by GitHub Actions." />
-  <sub>The graph is generated from the public GitHub contribution calendar. The included workflow refreshes it weekly.</sub>
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abpattar&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2&icon_color=ff9b5c" height="165" alt="Live GitHub profile stats for Abpattar" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abpattar&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2" height="165" alt="Most-used languages across public GitHub repositories" />
@@ -140,7 +133,7 @@ Also exploring full-stack tools, AI-assisted automation, app-building patterns, 
   <a href="mailto:adityabpattar@gmail.com">Email</a>
   <!-- Add portfolio, YouTube, or other public links here whenever you're ready. -->
 </div>
-
+</div>
 </details>
 
 ---
