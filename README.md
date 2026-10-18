@@ -1,6 +1,17 @@
 <div align="center">
   <img src="assets/hero-banner.svg" width="100%" alt="Hello there! I'm ADITYA B. PATTAR — IoT Student, Developer, Builder from India." />
   <br />
+  <div align="center">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Online status">
+      <circle cx="12" cy="12" r="10" fill="#10b981" opacity="1">
+        <animate attributeName="r" values="10;13;10" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="12" cy="12" r="4" fill="#10b981"/>
+    </svg>
+    <span style="color:#83b7ff; font-family:monospace; letter-spacing:1px;">ONLINE · BUILDING CHRONA</span>
+  </div>
+  <br />
   <a href="https://github.com/Abpattar"><img src="https://img.shields.io/badge/⌘%20Code-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Code" /></a>
   &nbsp;
   <a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/◈%20Learn-0b1424?style=for-the-badge&logo=bookstack&logoColor=cbd8f0" alt="Learn" /></a>
