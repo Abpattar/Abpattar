@@ -1,68 +1,139 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=240&section=header&text=Abpattar&fontSize=64&fontColor=22C55E&animation=fadeIn&fontAlignY=38" width="100%"/>
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Frontend+Developer;Full+Stack+Builder;Bug+Bounty+Trainee;AI-Assisted+Developer;Exploring+AI+x+Security)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aditya-pattar-261a6834b/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
-</a>
-<a href="mailto:adityabpattar@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
-</a>
-<a href="https://github.com/Abpattar">
-  <img src="https://skillicons.dev/icons?i=github" height="28"/>
-</a>
-
+  <img src="assets/hero-banner.svg" width="100%" alt="Hello there! I'm ADITYA B. PATTAR — IoT Student, Developer, Builder from India." />
+  <br />
+  <a href="https://github.com/Abpattar"><img src="https://img.shields.io/badge/⌘%20Code-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Code" /></a>
+  &nbsp;
+  <a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/◈%20Learn-0b1424?style=for-the-badge&logo=bookstack&logoColor=cbd8f0" alt="Learn" /></a>
+  &nbsp;
+  <a href="https://github.com/Abpattar/Chrona"><img src="https://img.shields.io/badge/⚒%20Build-0b1424?style=for-the-badge&logo=android&logoColor=cbd8f0" alt="Build" /></a>
+  &nbsp;
+  <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/badge/✧%20Explore-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Explore" /></a>
 </div>
 
 ---
 
-## ⚡ Tech Stack
+<details>
+<summary><strong>▼ &nbsp; LIGHT BONFIRE</strong></summary>
+
+<br />
 
 <div align="center">
+  <img src="assets/bonfire-banner.svg" width="100%" alt="Bonfire lit in a blue underground kingdom." />
+</div>
 
-### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-
-### 🔧 Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-
-### 🛠 Systems & Tools
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=22C55E)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-
+<div align="center">
+  <p><em>“A small step today, towards a better build tomorrow.”</em></p>
+  <p>
+    ➤ &nbsp; Currently building <a href="https://github.com/Abpattar/Chrona"><strong>Chrona</strong></a> — a local-first Android planner<br />
+    ⚒ &nbsp; Exploring full-stack apps, AI-assisted workflows, automation, and IoT<br />
+    ◈ &nbsp; Learning to build software that is useful, thoughtful, and secure<br />
+    ✦ &nbsp; Next quest: ship more Android apps and practical projects
+  </p>
+  <p>
+    <a href="https://github.com/Abpattar"><img src="https://img.shields.io/badge/GitHub-101a2b?style=for-the-badge&logo=github&logoColor=edf3ff" alt="GitHub" /></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/aditya-pattar-261a6834b/"><img src="https://img.shields.io/badge/LinkedIn-101a2b?style=for-the-badge&logo=linkedin&logoColor=61a9ff" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="mailto:adityabpattar@gmail.com"><img src="https://img.shields.io/badge/Email-101a2b?style=for-the-badge&logo=gmail&logoColor=ffad66" alt="Email" /></a>
+  </p>
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- Building frontend-driven web applications  
-- Integrating backend services  
-- Studying **Broken Access Control & IDOR**  
-- Exploring **API authorization flaws**  
+<table>
+  <tr>
+    <td width="31%" valign="top">
+      <img src="assets/cavern-wanderer.jpg" width="100%" alt="A masked wanderer looking across a moonlit cavern city." />
+    </td>
+    <td valign="top">
+      <h3><code>&gt; about.me</code></h3>
+      <p><code>name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Aditya B. Pattar<br />role&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: IoT Student · Developer · Builder<br />location : India<br />focus&nbsp;&nbsp;&nbsp;&nbsp;: Full-stack, AI, Android, IoT<br />mindset&nbsp;&nbsp;: Build useful things. Keep learning.</code></p>
+      <p>I'm a full-stack developer who enjoys turning ideas into tools people can actually use. I like moving between web applications, Android development, AI-powered workflows, and IoT experiments. I'm also interested in how software works under the hood — especially authentication, access control, and building systems that behave securely.</p>
+      <p><code>&gt; currently</code><br />Building Chrona and learning by shipping practical projects one step at a time.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+<h3><code>&gt; current.quest</code></h3>
+
+**Chrona — Personal Android Planner** · [Repository ↗](https://github.com/Abpattar/Chrona)
+
+A local-first planner built with **Kotlin** and **Jetpack Compose**. The goal is to make it easier to capture tasks, create a workable day plan, and adjust when real life gets in the way — while keeping the core experience useful offline.
+
+Also exploring full-stack tools, AI-assisted automation, app-building patterns, and prototypes that connect software with real-world problems.
+
+<h3><code>&gt; next.areas</code></h3>
+
+- **Android app development:** build and ship more complete, polished apps.
+- **AI & automation:** make useful workflows simpler without making them fragile or dependent on paid APIs.
+- **Web security:** keep learning Broken Access Control, IDOR, and API authorization testing.
+- **IoT:** combine software and hardware to solve practical problems.
+
+---
+
+<h3><code>&gt; tech.stack</code></h3>
+
+**Languages & currently learning**
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,dart,c,java&theme=dark" alt="Python, JavaScript, TypeScript, Kotlin, Dart, C, Java" />
+
+**Web & app development**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter,androidstudio&theme=dark" alt="HTML, CSS, React, Tailwind CSS, Flutter, Android Studio" />
+
+**Backend, data & infrastructure**
+
+<img src="https://skillicons.dev/icons?i=fastapi,supabase,firebase,sqlite,postgres,docker,linux&theme=dark" alt="FastAPI, Supabase, Firebase, SQLite, PostgreSQL, Docker, Linux" />
+
+**Tools & workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,neovim&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code, Neovim" />
+
+---
+
+<h3><code>&gt; stats.from.the.kingdom</code></h3>
 
 <div align="center">
+  <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbpattar&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=15243a&labelColor=0b1424" alt="Public repository count from GitHub" /></a>
+  &nbsp;
+  <a href="https://github.com/Abpattar"><img src="https://img.shields.io/github/followers/Abpattar?label=Followers&style=for-the-badge&color=15243a&labelColor=0b1424" alt="GitHub follower count" /></a>
+  &nbsp;
+  <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/github/stars/Abpattar?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=15243a&labelColor=0b1424" alt="GitHub stars across repositories" /></a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=22C55E)](https://www.linkedin.com/in/aditya-pattar-261a6834b/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:adityabpattar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=22C55E)](https://github.com/Abpattar)
+<h3><code>&gt; contribution.graph</code></h3>
 
+<div align="center">
+  <img src="assets/contribution-graph.svg" width="100%" alt="Public GitHub contribution calendar, refreshed by GitHub Actions." />
+  <sub>The graph is generated from the public GitHub contribution calendar. The included workflow refreshes it weekly.</sub>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=120&section=footer&text=BUILD%20%7C%20LEARN%20%7C%20SECURE&fontSize=22&fontColor=22C55E" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abpattar&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2&icon_color=ff9b5c" height="165" alt="Live GitHub profile stats for Abpattar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abpattar&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2" height="165" alt="Most-used languages across public GitHub repositories" />
+</div>
+
+<p align="center"><sub>One commit, one lesson, one small step at a time.</sub></p>
+
+---
+
+<h3><code>&gt; find.me</code></h3>
+
+<div align="center">
+  <a href="https://github.com/Abpattar">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/aditya-pattar-261a6834b/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:adityabpattar@gmail.com">Email</a>
+  <!-- Add portfolio, YouTube, or other public links here whenever you're ready. -->
+</div>
+
+</details>
+
+---
+
+<div align="center">
+  <sub>Hallownest-inspired fan aesthetic · Original generated artwork · Built one commit at a time.</sub>
 </div>
