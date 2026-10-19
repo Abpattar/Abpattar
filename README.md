@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="assets/hero-banner.svg" width="100%" alt="A moonlit Hallownest banner for Aditya's profile" />
+  <img src="assets/hero-runner.svg" width="100%" alt="A moonlit Hallownest banner with a Knight running across it" />
 
   <br />
 
-  <img src="assets/running-knight.gif" width="96" alt="The Knight running through Hallownest" />
+  <img src="assets/walking-knight-runner.svg" width="100%" alt="The Knight walking across Hallownest" />
 
 </div>
 
@@ -23,7 +23,7 @@
 
   <p>IoT student and developer building Android apps, web experiences, AI automation, and IoT projects.</p>
 
-  <img src="assets/walking-knight.gif" width="72" alt="The Knight walking through Hallownest" />
+  <img src="assets/transforming-knight.gif" width="80" alt="The Knight transforming in Hallownest" />
 
 </div>
 
@@ -31,11 +31,17 @@
 
 ## About
 
+<img src="assets/reading-knight.gif" width="48" alt="The Knight reading" align="left" />
+
 Hey, I'm **Aditya** — an IoT student and developer. I build Android apps, web experiences, AI automation, and IoT experiments.
 
 I like projects that solve real problems, feel good to use, and teach me something new.
 
+<br clear="left" />
+
 ---
+
+<img src="assets/jumping-knight.gif" width="48" alt="The Knight jumping" align="left" />
 
 ## Projects
 
@@ -46,7 +52,11 @@ I like projects that solve real problems, feel good to use, and teach me somethi
 
 **More experiments:** [AlphaScout](https://github.com/Abpattar/alphascout) — Indian-market news intelligence.
 
+<br clear="left" />
+
 ---
+
+<img src="assets/dashing-knight.gif" width="48" alt="The Knight dashing" align="left" />
 
 ## Toolkit
 
@@ -63,7 +73,11 @@ I like projects that solve real problems, feel good to use, and teach me somethi
 
 </div>
 
+<br clear="left" />
+
 ---
+
+<img src="assets/crawling-knight.gif" width="48" alt="The Knight crawling" align="left" />
 
 ## Around the web
 
@@ -81,7 +95,11 @@ I like projects that solve real problems, feel good to use, and teach me somethi
 
   <br />
 
+  <img src="assets/blushing-knight.gif" width="48" alt="The Knight blushing" />
+  <br />
   <sub>One more room explored. One more thing learned. See you around Hallownest.</sub>
+  <br />
+  <img src="assets/falling-knight.gif" width="48" alt="The Knight falling" />
 
 </div>
 
