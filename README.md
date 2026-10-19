@@ -1,6 +1,3 @@
-<details>
-<summary><strong>LIGHT BONFIRE</strong></summary>
-
 <div align="center">
 
   <img src="assets/running-knight.gif" width="140" alt="Hollow Knight running" />
@@ -19,8 +16,6 @@
 
   <a href="https://github.com/Abpattar"><img src="https://img.shields.io/badge/%E2%9C%A8%20Code-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Code" /></a>
   &nbsp;
-  <a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/%E2%9C%88%20Learn-0b1424?style=for-the-badge&logo=bookstack&logoColor=cbd6f0" alt="Learn" /></a>
-  &nbsp;
   <a href="https://github.com/Abpattar/Chrona"><img src="https://img.shields.io/badge/%E2%9A%92%20Build-0b1424?style=for-the-badge&logo=android&logoColor=cbd8f0" alt="Build" /></a>
   &nbsp;
   <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/badge/%E2%9C%B6%20Explore-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Explore" /></a>
@@ -28,6 +23,9 @@
 </div>
 
 ---
+
+<details>
+<summary><div align="center"><strong>LIGHT BONFIRE</strong></div></summary>
 
 <br />
 
@@ -89,7 +87,6 @@
         <p>
           I'm a full-stack developer who enjoys turning ideas into tools people can actually use.
           I move between web applications, Android development, AI-powered workflows, and IoT experiments.
-          I'm interested in how software works under the hood — especially authentication, access control, and building systems that behave securely.
         </p>
         <p><code>&gt; currently</code> : Building Chrona and learning by shipping practical projects one step at a time.</p>
       </td>
@@ -135,10 +132,6 @@
     </tr>
     <tr>
       <td align="center">
-        <b>Web Security</b><br />
-        Broken Access Control, IDOR, API authorization testing.
-      </td>
-      <td align="center">
         <b>IoT</b><br />
         Combine software and hardware for practical problems.
       </td>
@@ -172,16 +165,6 @@
 
 <div align="center">
 
-  <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbpattar&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=15243a&labelColor=0b1424" alt="Public repository count" /></a>
-  &nbsp;
-  <a href="https://github.com/Abpattar"><img src="https://img.shields.io/github/followers/Abpattar?label=Followers&style=for-the-badge&color=15243a&labelColor=0b1424" alt="GitHub followers" /></a>
-  &nbsp;
-  <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/github/stars/Abpattar?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=15243a&labelColor=0b1424" alt="GitHub stars" /></a>
-
-</div>
-
-<div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=Abpattar&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2&icon_color=ff9b5c" height="165" alt="GitHub profile stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abpattar&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2" height="165" alt="Most-used languages" />
 
@@ -195,11 +178,11 @@
 
 <div align="center">
 
-  <a href="https://github.com/Abpattar">GitHub</a>
+  <a href="https://github.com/Abpattar">🐙 GitHub</a>
   &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/aditya-pattar-261a6834b/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aditya-pattar-261a6834b/">💼 LinkedIn</a>
   &nbsp; · &nbsp;
-  <a href="mailto:adityabpattar@gmail.com">Email</a>
+  <a href="mailto:adityabpattar@gmail.com">✉️ Email</a>
 
 </div>
 
