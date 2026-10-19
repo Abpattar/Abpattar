@@ -1,3 +1,6 @@
+<details>
+<summary><strong>LIGHT BONFIRE</strong></summary>
+
 <div align="center">
 
   <img src="assets/running-knight.gif" width="140" alt="Hollow Knight running" />
@@ -25,9 +28,6 @@
 </div>
 
 ---
-
-<details>
-<summary><strong>▼ &nbsp; LIGHT BONFIRE</strong></summary>
 
 <br />
 
@@ -63,7 +63,7 @@
 
 </div>
 
-</details>
+
 
 ---
 
@@ -118,33 +118,6 @@
 
 ---
 
-<h3><code>&gt; sprite.actions</code></h3>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center"><img src="assets/walking-knight.gif" width="96" alt="Walking animation" /><br /><sub>Walking</sub></td>
-      <td align="center"><img src="assets/running-knight.gif" width="96" alt="Running animation" /><br /><sub>Running</sub></td>
-      <td align="center"><img src="assets/dashing-knight.gif" width="96" alt="Dashing animation" /><br /><sub>Dashing</sub></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="assets/crawling-knight.gif" width="96" alt="Crawling animation" /><br /><sub>Crawling</sub></td>
-      <td align="center"><img src="assets/transforming-knight.gif" width="96" alt="Transforming animation" /><br /><sub>Transforming</sub></td>
-      <td align="center"><img src="assets/jumping-knight.gif" width="96" alt="Jumping animation" /><br /><sub>Jumping</sub></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="assets/reading-knight.gif" width="96" alt="Reading animation" /><br /><sub>Reading</sub></td>
-      <td align="center"><img src="assets/falling-knight.gif" width="96" alt="Falling animation" /><br /><sub>Falling</sub></td>
-      <td align="center"><img src="assets/blushing-knight.gif" width="96" alt="Blushing animation" /><br /><sub>Blushing</sub></td>
-    </tr>
-  </table>
-
-  <p><sub>Animations generated from the <a href="https://github.com/ak-2045/hollow-knight-animated-sprite-sheet">Hollow Knight sprite sheet</a> by ak-2045.</sub></p>
-
-</div>
-
----
 
 <h3><code>&gt; next.areas</code></h3>
 
@@ -235,3 +208,5 @@
 <div align="center">
   <sub>Hallownest-inspired fan aesthetic · Original generated artwork · Sprite animations from ak-2045 · Built one commit at a time.</sub>
 </div>
+
+</details>
