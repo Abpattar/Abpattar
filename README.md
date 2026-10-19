@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/running-knight.gif" width="140" alt="Hollow Knight running" />
+  <img src="assets/running-knight.gif" width="95%" alt="Hollow Knight running" />
 
   <br />
 
@@ -9,8 +9,6 @@
   <br />
 
   <img src="assets/walking-knight.gif" width="70" alt="Hollow Knight walking" />
-  &nbsp;·&nbsp;
-  <span style="color:#83b7ff; font-family:monospace; letter-spacing:1px;">ONLINE · BUILDING CHRONA</span>
 
   <br />
 
