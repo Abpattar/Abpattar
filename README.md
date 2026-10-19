@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="assets/hero-runner.svg" width="100%" alt="A moonlit Hallownest banner with one Knight running across it" />
+  <img src="assets/hero-running-knight.gif" width="100%" alt="A moonlit Hallownest banner with one Knight running across it" />
 
   <br />
 
-  <img src="assets/walking-knight-runner.svg" width="100%" alt="The Knight walking across Hallownest" />
+  <img src="assets/walking-knight.gif" width="256" alt="The Knight walking across Hallownest" />
 
 </div>
 
