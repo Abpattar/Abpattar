@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 128 128" role="img" aria-label="Hollow Knight running">
-  <image width="2048" height="2048" href="https://raw.githubusercontent.com/ak-2045/hollow-knight-animated-sprite-sheet/main/assets/hollow_knight.png" x="0" y="0" preserveAspectRatio="none">
-    <animate attributeName="x" values="-1408;-1536;-1664;-1792;-1920" dur="0.5s" repeatCount="indefinite" calcMode="discrete"/>
-  </image>
-</svg>

@@ -1,24 +1,19 @@
 <div align="center">
 
-  <!-- === Header === -->
-  <!-- Hollow Knight running across top -->
   <img src="assets/running-knight.gif" width="140" alt="Hollow Knight running" />
 
   <br />
 
-  <!-- Hero banner -->
   <img src="assets/hero-banner.svg" width="95%" alt="Aditya B. Pattar — IoT Student, Developer, Builder from India" />
 
   <br />
 
-  <!-- Status line with walking knight beside it -->
   <img src="assets/walking-knight.gif" width="70" alt="Hollow Knight walking" />
   &nbsp;·&nbsp;
   <span style="color:#83b7ff; font-family:monospace; letter-spacing:1px;">ONLINE · BUILDING CHRONA</span>
 
   <br />
 
-  <!-- Quick links -->
   <a href="https://github.com/Abpattar"><img src="https://img.shields.io/badge/%E2%9C%A8%20Code-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Code" /></a>
   &nbsp;
   <a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/%E2%9C%88%20Learn-0b1424?style=for-the-badge&logo=bookstack&logoColor=cbd6f0" alt="Learn" /></a>
@@ -38,12 +33,10 @@
 
 <div align="center">
 
-  <!-- Bonfire banner -->
   <img src="assets/bonfire-banner.svg" width="90%" alt="Bonfire lit in a blue underground kingdom." />
 
   <br />
 
-  <!-- Jumping knight appears when bonfire is lit -->
   <img src="assets/jumping-knight.gif" width="120" alt="Hollow Knight jumping" />
 
   <br />
@@ -74,10 +67,8 @@
 
 ---
 
-<!-- === About Me === -->
 <div align="center">
 
-  <!-- Hollow Knight standing near about me -->
   <img src="assets/blushing-knight.gif" width="85" alt="Hollow Knight" />
 
   <br />
@@ -124,6 +115,34 @@
 <p align="center">
   Also exploring full-stack tools, AI-assisted automation, app-building patterns, and prototypes that connect software with real-world problems.
 </p>
+
+---
+
+<h3><code>&gt; sprite.actions</code></h3>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center"><img src="assets/walking-knight.gif" width="96" alt="Walking animation" /><br /><sub>Walking</sub></td>
+      <td align="center"><img src="assets/running-knight.gif" width="96" alt="Running animation" /><br /><sub>Running</sub></td>
+      <td align="center"><img src="assets/dashing-knight.gif" width="96" alt="Dashing animation" /><br /><sub>Dashing</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/crawling-knight.gif" width="96" alt="Crawling animation" /><br /><sub>Crawling</sub></td>
+      <td align="center"><img src="assets/transforming-knight.gif" width="96" alt="Transforming animation" /><br /><sub>Transforming</sub></td>
+      <td align="center"><img src="assets/jumping-knight.gif" width="96" alt="Jumping animation" /><br /><sub>Jumping</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/reading-knight.gif" width="96" alt="Reading animation" /><br /><sub>Reading</sub></td>
+      <td align="center"><img src="assets/falling-knight.gif" width="96" alt="Falling animation" /><br /><sub>Falling</sub></td>
+      <td align="center"><img src="assets/blushing-knight.gif" width="96" alt="Blushing animation" /><br /><sub>Blushing</sub></td>
+    </tr>
+  </table>
+
+  <p><sub>Animations generated from the <a href="https://github.com/ak-2045/hollow-knight-animated-sprite-sheet">Hollow Knight sprite sheet</a> by ak-2045.</sub></p>
+
+</div>
 
 ---
 
@@ -214,5 +233,5 @@
 ---
 
 <div align="center">
-  <sub>Hallownest-inspired fan aesthetic · Original generated artwork · Built one commit at a time.</sub>
+  <sub>Hallownest-inspired fan aesthetic · Original generated artwork · Sprite animations from ak-2045 · Built one commit at a time.</sub>
 </div>
