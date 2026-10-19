@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="340" viewBox="0 0 1500 340" role="img" aria-labelledby="title desc">
+  <title id="title">Aditya's Hallownest</title>
+  <desc id="desc">A moonlit blue kingdom with a small Knight running across the banner and turning back at the edge.</desc>
+  <image href="https://raw.githubusercontent.com/Abpattar/Abpattar/main/assets/hero-banner.svg" x="0" y="0" width="1500" height="340" preserveAspectRatio="xMidYMid slice"/>
+  <defs>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- First pass: left to right -->
+  <image href="https://raw.githubusercontent.com/Abpattar/Abpattar/main/assets/running-knight.gif" x="0" y="238" width="76" height="76" preserveAspectRatio="xMidYMid meet" filter="url(#softGlow)">
+    <animate attributeName="x" values="0;1424;1424" keyTimes="0;0.46;0.5" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.46;0.5;1" dur="8s" repeatCount="indefinite"/>
+  </image>
+  <!-- Return pass: horizontally flipped so the Knight faces left -->
+  <g transform="translate(1500 0) scale(-1 1)" filter="url(#softGlow)">
+    <image href="https://raw.githubusercontent.com/Abpattar/Abpattar/main/assets/running-knight.gif" x="0" y="238" width="76" height="76" opacity="0" preserveAspectRatio="xMidYMid meet">
+      <animate attributeName="x" values="0;1424;1424" keyTimes="0;0.46;0.5" dur="8s" begin="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.46;0.5;1" dur="8s" begin="4s" repeatCount="indefinite"/>
+    </image>
+  </g>
+</svg>

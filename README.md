@@ -1,89 +1,97 @@
 <div align="center">
 
-  <img src="assets/running-knight.gif" width="140" alt="Hollow Knight running" />
+  <img src="assets/hero-runner.svg" width="100%" alt="A little Knight running across a moonlit Hallownest banner" />
 
   <br />
 
-  <img src="assets/hero-banner.svg" width="95%" alt="Aditya B. Pattar — IoT Student, Developer, Builder from India" />
+  <p>
+    <img src="https://img.shields.io/badge/ANDROID-17243B?style=flat-square&logo=android&logoColor=9AD7A4" alt="Android" />
+    <img src="https://img.shields.io/badge/WEB-17243B?style=flat-square&logo=googlechrome&logoColor=8CCBFF" alt="Web development" />
+    <img src="https://img.shields.io/badge/AI%20%26%20AUTOMATION-17243B?style=flat-square&logo=probot&logoColor=FFC78A" alt="AI and automation" />
+    <img src="https://img.shields.io/badge/IoT-17243B?style=flat-square&logo=esphome&logoColor=C5B6FF" alt="IoT" />
+  </p>
 
-  <br />
+  <p><em>Building things, learning as I go, and taking the scenic route through Hallownest.</em></p>
 
-  <img src="assets/walking-knight.gif" width="70" alt="Hollow Knight walking" />
-
-  <br />
-
-  <a href="https://github.com/Abpattar"><img src="https://img.shields.io/badge/%E2%9C%A8%20Code-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Code" /></a>
+  <a href="https://github.com/Abpattar?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-17243B?style=for-the-badge&logo=github&logoColor=EAF2FF" alt="Explore my projects" />
+  </a>
   &nbsp;
-  <a href="https://github.com/Abpattar/Chrona"><img src="https://img.shields.io/badge/%E2%9A%92%20Build-0b1424?style=for-the-badge&logo=android&logoColor=cbd8f0" alt="Build" /></a>
-  &nbsp;
-  <a href="https://github.com/Abpattar?tab=repositories"><img src="https://img.shields.io/badge/%E2%9C%B6%20Explore-0b1424?style=for-the-badge&logo=github&logoColor=cbd8f0" alt="Explore" /></a>
+  <a href="https://www.linkedin.com/in/aditya-pattar-261a6834b/">
+    <img src="https://img.shields.io/badge/FIND%20ME%20ON%20LINKEDIN-17243B?style=for-the-badge&logo=linkedin&logoColor=8CCBFF" alt="LinkedIn" />
+  </a>
 
 </div>
 
 ---
+
+<div align="center">
+
+  <h3>🔥 LIGHT THE BONFIRE</h3>
+  <p><sub>Settle in. There's more beyond the mist.</sub></p>
+
+  <img src="assets/bonfire-camp.jpg" width="84%" alt="A warm bonfire in a quiet, blue cavern" />
+
+  <p><strong>▼ Open the bonfire to explore ▼</strong></p>
+
+</div>
 
 <details>
-<summary><div align="center"><strong>LIGHT BONFIRE</strong></div></summary>
+<summary><strong>LIGHT BONFIRE</strong></summary>
 
-<br />
+<a id="the-journey-begins"></a>
 
 <div align="center">
 
-  <img src="assets/bonfire-banner.svg" width="90%" alt="Bonfire lit in a blue underground kingdom." />
+  <br />
+
+  <img src="assets/bonfire-banner.svg" width="100%" alt="A bonfire glowing in a blue cavern" />
 
   <br />
 
-  <img src="assets/jumping-knight.gif" width="120" alt="Hollow Knight jumping" />
-
-  <br />
-
-  <p><em>"A small step today, towards a better build tomorrow."</em></p>
+  <h3>“A small step today, towards a better build tomorrow.”</h3>
 
   <p>
-    ⚒ &nbsp; Exploring full-stack apps, AI-assisted workflows, automation, and IoT
-    <br />
-    ◈ &nbsp; Learning to build software that is useful, thoughtful, and secure
-    <br />
-    ✦ &nbsp; Next quest: ship more Android apps and practical projects
+    ⚒️ I like turning ideas into things people can actually use.<br />
+    🌙 Most days, that means experimenting, fixing things, and learning something new.<br />
+    ✨ Currently exploring Android, web development, AI automation, and IoT.
   </p>
 
-  <p>
-    <a href="https://github.com/Abpattar"><img src="https://img.shields.io/badge/GitHub-101a2b?style=for-the-badge&logo=github&logoColor=edf3ff" alt="GitHub" /></a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/aditya-pattar-261a6834b/"><img src="https://img.shields.io/badge/LinkedIn-101a2b?style=for-the-badge&logo=linkedin&logoColor=61a9ff" alt="LinkedIn" /></a>
-    &nbsp;
-    <a href="mailto:adityabpattar@gmail.com"><img src="https://img.shields.io/badge/Email-101a2b?style=for-the-badge&logo=gmail&logoColor=ffad66" alt="Email" /></a>
-  </p>
+  <img src="assets/walking-knight.gif" width="72" alt="The Knight walking through Hallownest" />
 
 </div>
 
-
-
 ---
+
+## 🧭 A little about me
+
+Hey, I'm **Aditya** — an IoT student and developer who enjoys building across different parts of tech. Sometimes it's an Android app, sometimes a web experience, sometimes an automation experiment or a hardware idea.
+
+I like projects that solve a real problem, feel good to use, and give me something new to learn along the way. I'm still exploring, still building, and happy to follow an interesting idea wherever it goes.
 
 <div align="center">
 
-  <img src="assets/blushing-knight.gif" width="85" alt="Hollow Knight" />
-
-  <br />
-
   <table>
     <tr>
-      <td width="35%" valign="top">
-        <img src="assets/cavern-wanderer.jpg" width="90%" alt="Cavern wanderer" />
+      <td align="center" width="25%">
+        <img src="assets/reading-knight.gif" width="66" alt="Knight reading" /><br />
+        <strong>Learn</strong><br />
+        <sub>Keep getting better</sub>
       </td>
-      <td valign="top">
-        <h3><code>&gt; about.me</code></h3>
-        <p><b>Name</b> : Aditya B. Pattar</p>
-        <p><b>Role</b> : IoT Student · Developer · Builder</p>
-        <p><b>Location</b> : India</p>
-        <p><b>Focus</b> : Full-stack · AI · Android · IoT</p>
-        <p><b>Mindset</b> : Build useful things. Keep learning.</p>
-        <br />
-        <p>
-          I'm a full-stack developer who enjoys turning ideas into tools people can actually use.
-          I move between web applications, Android development, AI-powered workflows, and IoT experiments.
-        </p>
+      <td align="center" width="25%">
+        <img src="assets/jumping-knight.gif" width="66" alt="Knight jumping" /><br />
+        <strong>Build</strong><br />
+        <sub>Turn ideas into projects</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="assets/crawling-knight.gif" width="66" alt="Knight exploring" /><br />
+        <strong>Explore</strong><br />
+        <sub>Try something different</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="assets/blushing-knight.gif" width="66" alt="Knight" /><br />
+        <strong>Enjoy</strong><br />
+        <sub>Have fun doing it</sub>
       </td>
     </tr>
   </table>
@@ -92,101 +100,91 @@
 
 ---
 
-<h3><code>&gt; current.quest</code></h3>
+## ✦ Things I'm building
 
 <div align="center">
 
-  <b>Chrona — Personal Android Planner</b> · [Repository ↗](https://github.com/Abpattar/Chrona)
-
-</div>
-
-<p align="center">
-  A local-first planner built with <b>Kotlin</b> and <b>Jetpack Compose</b>. The goal is to make it easier to capture tasks, create a workable day plan, and adjust when real life gets in the way — while keeping the core experience useful offline.
-</p>
-
-<p align="center">
-  Also exploring full-stack tools, AI-assisted automation, app-building patterns, and prototypes that connect software with real-world problems.
-</p>
-
----
-
-
-<h3><code>&gt; next.areas</code></h3>
-
-<div align="center">
   <table>
     <tr>
-      <td align="center">
-        <b>Android</b><br />
-        Build and ship more complete, polished apps.
+      <td width="50%" valign="top">
+        <h3>🗓️ Chrona</h3>
+        <sub>ANDROID · KOTLIN · JETPACK COMPOSE</sub>
+        <p>A local-first Android planner for turning everyday tasks into a realistic day plan.</p>
+        <a href="https://github.com/Abpattar/Chrona">Explore repository ↗</a>
       </td>
-      <td align="center">
-        <b>AI & Automation</b><br />
-        Simpler workflows without fragile paid API dependence.
+      <td width="50%" valign="top">
+        <h3>🖐️ GestureOS</h3>
+        <sub>PYTHON · COMPUTER VISION</sub>
+        <p>A webcam-based desktop app for controlling everyday computer actions with hand gestures.</p>
+        <a href="https://github.com/Abpattar/GestureOS">Explore repository ↗</a>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <b>Web Development</b><br />
-        Responsive apps and clean user experiences.
+      <td width="50%" valign="top">
+        <h3>✍️ Scribble Air Draw</h3>
+        <sub>REACT · TYPESCRIPT · MEDIAPIPE</sub>
+        <p>A browser-based drawing experience where hand movements become strokes in the air.</p>
+        <a href="https://github.com/Abpattar/scribble-air-draw">Explore repository ↗</a>
       </td>
-      <td align="center">
-        <b>IoT</b><br />
-        Combine software and hardware for practical problems.
+      <td width="50%" valign="top">
+        <h3>🌐 AURA HeatMap</h3>
+        <sub>FLUTTER WEB · MAPS · REAL-TIME DATA</sub>
+        <p>A map-based emergency response project for visualising incidents and helping people navigate to them.</p>
+        <a href="https://github.com/Abpattar/HeatMap">Explore repository ↗</a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top">
+        <h3>📡 AlphaScout</h3>
+        <sub>PYTHON · NEWS INTELLIGENCE · MARKET DATA</sub>
+        <p>Indian-market news intelligence that verifies companies and market data before sending signals.</p>
+        <a href="https://github.com/Abpattar/alphascout">Explore repository ↗</a>
       </td>
     </tr>
   </table>
-</div>
 
----
-
-<h3><code>&gt; tech.stack</code></h3>
-
-<div align="center">
-
-  <p><b>Languages &amp; Learning</b></p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,dart,c,java&theme=dark" alt="Python, JavaScript, TypeScript, Kotlin, Dart, C, Java" />
-
-  <p><b>Web &amp; App Development</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter,androidstudio&theme=dark" alt="HTML, CSS, React, Tailwind CSS, Flutter, Android Studio" />
-
-  <p><b>Backend, Data &amp; Infrastructure</b></p>
-  <img src="https://skillicons.dev/icons?i=fastapi,supabase,firebase,sqlite,postgres,docker,linux&theme=dark" alt="FastAPI, Supabase, Firebase, SQLite, PostgreSQL, Docker, Linux" />
-
-  <p><b>Tools &amp; Workflow</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,neovim&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code, Neovim" />
+  <p><a href="https://github.com/Abpattar?tab=repositories">There are more experiments in the repository cavern →</a></p>
 
 </div>
 
 ---
 
-<h3><code>&gt; stats.from.the.kingdom</code></h3>
+## 🧰 My toolkit
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Abpattar&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2&icon_color=ff9b5c" height="165" alt="GitHub profile stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abpattar&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2" height="165" alt="Most-used languages" />
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,c,java&theme=dark" alt="Python, JavaScript, TypeScript, Kotlin, C and Java" />
 
-</div>
+  <p><strong>Web & apps</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter,androidstudio&theme=dark" alt="HTML, CSS, React, Tailwind, Flutter and Android Studio" />
 
-<p align="center"><sub>One commit, one lesson, one small step at a time.</sub></p>
-
----
-
-<h3><code>&gt; find.me</code></h3>
-
-<div align="center">
-
-  <a href="https://github.com/Abpattar">🐙 GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/aditya-pattar-261a6834b/">💼 LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:adityabpattar@gmail.com">✉️ Email</a>
+  <p><strong>Backend & tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=fastapi,supabase,firebase,postgres,sqlite,docker,linux,git,github&theme=dark" alt="FastAPI, Supabase, Firebase, databases, Docker, Linux, Git and GitHub" />
 
 </div>
 
 ---
 
+## 🌌 Around the web
+
 <div align="center">
+
+  <a href="https://github.com/Abpattar">GitHub</a>
+  &nbsp; ✦ &nbsp;
+  <a href="https://www.linkedin.com/in/aditya-pattar-261a6834b/">LinkedIn</a>
+  &nbsp; ✦ &nbsp;
+  <a href="mailto:adityabpattar@gmail.com">Email</a>
+
+  <br /><br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Abpattar&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2&icon_color=ff9b5c" height="155" alt="GitHub profile statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abpattar&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=83b7ff&text_color=c3cee2" height="155" alt="Most-used languages" />
+
+  <br />
+
+  <sub>One more room explored. One more thing learned. See you around Hallownest.</sub>
+
+</div>
 
 </details>
