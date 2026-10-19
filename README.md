@@ -42,8 +42,6 @@
   <p><em>"A small step today, towards a better build tomorrow."</em></p>
 
   <p>
-    ➤ &nbsp; Currently building <a href="https://github.com/Abpattar/Chrona"><strong>Chrona</strong></a> — a local-first Android planner
-    <br />
     ⚒ &nbsp; Exploring full-stack apps, AI-assisted workflows, automation, and IoT
     <br />
     ◈ &nbsp; Learning to build software that is useful, thoughtful, and secure
@@ -88,7 +86,6 @@
           I'm a full-stack developer who enjoys turning ideas into tools people can actually use.
           I move between web applications, Android development, AI-powered workflows, and IoT experiments.
         </p>
-        <p><code>&gt; currently</code> : Building Chrona and learning by shipping practical projects one step at a time.</p>
       </td>
     </tr>
   </table>
@@ -131,6 +128,10 @@
       </td>
     </tr>
     <tr>
+      <td align="center">
+        <b>Web Development</b><br />
+        Responsive apps and clean user experiences.
+      </td>
       <td align="center">
         <b>IoT</b><br />
         Combine software and hardware for practical problems.
@@ -189,7 +190,5 @@
 ---
 
 <div align="center">
-  <sub>Hallownest-inspired fan aesthetic · Original generated artwork · Sprite animations from ak-2045 · Built one commit at a time.</sub>
-</div>
 
 </details>
